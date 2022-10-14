@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tela de longin capflix</string>
+    <string name="sing_in">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="check_box_login">Keep me Logged in</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="save">Enter</string>
+    <string name="not_a_member">Not a member?</string>
+    <string name="text_view_sign_up">Sign up</string>
+</resources>
